@@ -16,7 +16,7 @@ public class A {
      * Justifique su respuesta.
      */
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); 
+        Scanner sc = new Scanner(System.in);
         int dividendo, divisor, resta = 0;
         System.out.print("Ingrese el dividendo: ");
         dividendo = sc.nextInt();
